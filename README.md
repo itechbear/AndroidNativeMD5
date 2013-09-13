@@ -3,7 +3,7 @@ AndroidNativeMD5
 
 native md5 library for android
 
-This project provides native c implementation of the MD5 algorithm on android platforms. Theoitically it is more efficient than java(I did not do any benchmark myself).
+This project provides native c implementation of the MD5 algorithm on android platforms. Theoritically it is more efficient than java implementations (I did not do any benchmark myself).
 
 Usage
 =====
